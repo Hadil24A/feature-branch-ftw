@@ -1,2 +1,2 @@
 # feature-branch-ftw
-It's a demo using feature branches
+It's a demo about using feature branches
